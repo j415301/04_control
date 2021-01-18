@@ -1,6 +1,6 @@
 package com.comtrol.run;
 
-import com.condition.controller.ConditionControllerPractice;
+//import com.condition.controller.ConditionControllerPractice;
 import com.repeat.controller.RepeatControllerPractice;
 
 public class MainPractice {
@@ -14,7 +14,11 @@ public class MainPractice {
 		//new RepeatControllerPractice().basicFor();
 		//new RepeatControllerPractice().extraFor();
 		//new RepeatControllerPractice().calculator1();
-		new RepeatControllerPractice().calculator2();
+		//new RepeatControllerPractice().calculator2();
+		//new RepeatControllerPractice().whileTest();
+		//new RepeatControllerPractice().doubleForTest();
+		//new RepeatControllerPractice().breakContinueTest();
+		new RepeatControllerPractice().practice();
 		
 	}
 
